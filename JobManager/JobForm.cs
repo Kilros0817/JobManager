@@ -13,7 +13,7 @@ namespace JobManager
 {
     public partial class JobForm : Form
     {
-
+		//Copy/Move files from one to another using IPFS, ...
         private int g_index = 0;
         private string g_srcPath = string.Empty;
         private string g_destPath = string.Empty;
